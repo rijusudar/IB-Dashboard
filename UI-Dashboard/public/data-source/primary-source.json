@@ -1,0 +1,45 @@
+[
+    {
+        "lce-group": "MR SW LCE",
+        "items": [
+            {
+                "functional-area": "SW-Infr-Infra",
+                "41-60": 2,
+                "76-90": 2,
+                "overdue": 1
+            },
+            {
+                "functional-area": "SW-Infr-Interfaces",
+                "21-40": 1,
+                "41-60": 1
+            },
+            {
+                "functional-area": "SW-UW_Apps-ClinApps",
+                "0-20": 1,
+                "76-90": 1
+            },
+            {
+                "functional-area": "SW-UW_Apps-FieldService",
+                "21-40": 2
+            },
+            {
+                "functional-area": "SW-UW_Apps-PatAdmin",
+                "overdue": 2
+            },
+            {
+                "functional-area": "SW-UW_Apps-PPInfra",
+                "0-20": 1
+            },
+            {
+                "functional-area": "SW-UW_Apps-ScanApps",
+                "21-40": 1
+            },
+            {
+                "functional-area": "SW-UW_Apps-Sysco"
+            },
+            {
+                "functional-area": "Others"
+            }
+        ]
+    }
+]

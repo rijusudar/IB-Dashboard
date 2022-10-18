@@ -1,0 +1,68 @@
+[
+    {
+        "fa-group": "MR SW LCE",
+        "items": [
+            {
+                "ID": "MR00254835",
+                "TW ID": "2192211",
+                "Project": "LCE-CHU",
+                "Headline": "E38111: Esc 0119114119: Intermittent spectroscopy protocol scan fail, Spectrometer initializing & Real Time Control error",
+                "Functional Area": "MR-CustomerService",
+                "Owner": "Stephen Kerrison",
+                "Become Aware Age": "55",
+                "TW Creation Age": "55",
+                "CQ Age": "49",
+                "Age in current FA": "26",
+                "FA History": "Customer Service (26 Days)SW DCL (14 Days)",
+                "Remarks": ""
+            },
+            {
+                "ID": "MR00255111",
+                "TW ID": "1941154",
+                "Project": "LCE-CHU",
+                "Headline": "E45504: Escalation 0119448058: Image quality problem with diagonal banding",
+                "Functional Area": "MR-CustomerService",
+                "Owner": "Frank Bergmans",
+                "Become Aware Age": "137",
+                "TW Creation Age": "136",
+                "CQ Age": "40",
+                "Age in current FA": "11",
+                "FA History": "Customer Service (11 Days)SW Recon (23 Days)",
+                "Remarks": ""
+            }
+        ]
+    },
+    {
+        "fa-group": "MR SW LCE",
+        "items": [
+            {
+                "ID": "MR00254835",
+                "TW ID": "2192211",
+                "Project": "LCE-CHU",
+                "Headline": "E38111: Esc 0119114119: Intermittent spectroscopy protocol scan fail, Spectrometer initializing & Real Time Control error",
+                "Functional Area": "MR-CustomerService",
+                "Owner": "Stephen Kerrison",
+                "Become Aware Age": "55",
+                "TW Creation Age": "55",
+                "CQ Age": "49",
+                "Age in current FA": "26",
+                "FA History": "Customer Service (26 Days)SW DCL (14 Days)",
+                "Remarks": ""
+            },
+            {
+                "ID": "MR00255111",
+                "TW ID": "1941154",
+                "Project": "LCE-CHU",
+                "Headline": "E45504: Escalation 0119448058: Image quality problem with diagonal banding",
+                "Functional Area": "MR-CustomerService",
+                "Owner": "Frank Bergmans",
+                "Become Aware Age": "137",
+                "TW Creation Age": "136",
+                "CQ Age": "40",
+                "Age in current FA": "11",
+                "FA History": "Customer Service (11 Days)SW Recon (23 Days)",
+                "Remarks": ""
+            }
+        ]
+    }
+]

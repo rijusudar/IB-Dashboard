@@ -1,0 +1,29 @@
+.brand-name {
+  color: #fff;
+}
+
+.brand-name:hover {
+  color: #efe8e8;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.container-bottom {
+  margin-top: 8rem;
+}
+
+.secondary-section {
+  margin-top: 1.5rem;
+}
+
+.gZWIKX.rdt_TableHeadRow {
+  background-color: #424244;
+  color: #fff;
+}
+
+.sc-bczRLJ.eSTlnH.rdt_Table {
+  border: 1px solid #ccc;
+  border-bottom: none;
+}

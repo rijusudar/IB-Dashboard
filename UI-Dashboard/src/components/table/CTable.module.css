@@ -1,0 +1,31 @@
+:root {
+  --white-color: #fff;
+  --table-color: #424244;
+}
+
+.table {
+  font-size: 13px;
+}
+
+.table :not(thead) tr:last-child td {
+  background-color: #8d8e8f;
+  color: var(--white-color);
+}
+
+.table.secondary :not(thead) tr:last-child td {
+  background-color: transparent;
+  color: var(--table-color);
+}
+
+.table thead tr {
+  background-color: var(--table-color);
+  color: var(--white-color);
+}
+
+.table :not(thead) td {
+  color: var(--table-color);
+}
+
+.tableHead {
+  font-size: 12px;
+}
